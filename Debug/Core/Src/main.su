@@ -1,0 +1,11 @@
+../Core/Src/main.c:75:10:MAP	24	static
+../Core/Src/main.c:79:6:HAL_SYSTICK_Callback	8	static
+../Core/Src/main.c:106:6:HAL_GPIO_EXTI_Callback	16	static
+../Core/Src/main.c:113:6:HAL_ADC_ConvCpltCallback	24	static
+../Core/Src/main.c:117:6:initRandomSeed	16	static
+../Core/Src/main.c:136:5:main	16	static
+../Core/Src/main.c:208:6:SystemClock_Config	128	static
+../Core/Src/main.c:257:13:MX_ADC_Init	16	static
+../Core/Src/main.c:313:13:MX_I2C1_Init	8	static
+../Core/Src/main.c:365:13:MX_GPIO_Init	56	static
+../Core/Src/main.c:413:6:Error_Handler	8	static,ignoring_inline_asm
